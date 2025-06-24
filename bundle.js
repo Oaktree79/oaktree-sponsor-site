@@ -1,1 +1,1 @@
-console.log('Oaktree Sponsor Site Loaded');
+console.log('Oaktree Tech Sponsor + Shopify page loaded');
